@@ -2,3 +2,5 @@
 
 
 -Estado del proyecto: en construccion
+-Para ejecutar el sistema debes:
+''Hacer click en start''
